@@ -1,0 +1,25 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:arrow"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:flint",
+      "count": 1,
+      "chance": 0.05
+    },
+    {
+      "item": "minecraft:stick",
+      "count": 1,
+      "chance": 0.5
+    },
+    {
+      "item": "minecraft:feather",
+      "count": 1,
+      "chance": 0.05
+    }
+  ]
+}

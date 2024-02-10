@@ -1,0 +1,15 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "minecraft:coarse_dirt"
+    }
+  ],
+  "results": [
+    {
+      "item": "create:zinc_nugget",
+      "count": 1,
+      "chance": 0.1
+    }
+  ]
+}

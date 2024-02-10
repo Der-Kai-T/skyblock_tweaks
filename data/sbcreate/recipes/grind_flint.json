@@ -1,0 +1,26 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "results": [
+    {
+      "item": "minecraft:coal",
+      "count": 1,
+      "chance": 0.02
+    },
+    {
+      "item": "minecraft:emerald",
+      "count": 1,
+      "chance": 0.0025
+    },
+    {
+      "item": "create:rose_quartz",
+      "count": 1,
+      "chance": 0.01
+    }
+  ],
+  "processingTime": 50
+}
